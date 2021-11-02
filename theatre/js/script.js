@@ -46,6 +46,12 @@ function changeItem1() {
   });
 
 
+window.onload = function(){
+
+  let preloader = document.getElementById('preloader');
+  preloader.style.display = 'none';
+
+};
   /* 
   
 $('.header__burger').click(function(event){
