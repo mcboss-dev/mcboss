@@ -1,0 +1,39 @@
+Коментарии к цветовому оформлению сайта
+
+цвета используемые в LightMode:
+
+red: #ff0000
+
+light orange: #ff9100
+
+yellow: #ffee00
+
+black: #000000
+
+white: #ffffff
+
+--------------------------------------------------
+
+цвета в DarkMode:
+
+black, grey, white
+
+
+-------------------------------------------------
+
+Шрифты
+
+Заголовки (h1):
+font-family: 'Montserrat', sans-serif;  
+
+Текст второго уровня(h2):
+font-family: 'Open Sans', sans-serif;
+
+(p):
+font-family: 'Roboto', sans-serif;
+
+Доп. шрифт:
+font-family: 'Rubik', sans-serif;  
+
+
+
