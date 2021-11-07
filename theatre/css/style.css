@@ -837,7 +837,7 @@ font-family: 'Pattaya', sans-serif; Font for event names
     }
 }
 
-@media (max-width: 770px){
+@media (max-width: 992px){
     .top_block_wrap{
         height: 710px;
     }
@@ -955,7 +955,7 @@ font-family: 'Pattaya', sans-serif; Font for event names
     }
 }
 
-@media (max-width: 600px){
+@media (max-width: 770px){
     .top_block_wrap{
         height: 560px;
     }
